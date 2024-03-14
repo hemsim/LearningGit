@@ -1,4 +1,4 @@
-package window;
+package test;
 
 public class Test {
     String text = "test";
